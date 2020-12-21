@@ -20,7 +20,7 @@ public class ApplicationMain {
 			hostName = "";
 		}
 		
-		System.out.println("hostname = " + hostName);
+		System.out.println("hostname = " + hostName); 
 		
 	}
 
